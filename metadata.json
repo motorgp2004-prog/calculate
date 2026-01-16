@@ -1,0 +1,5 @@
+{
+  "name": "Modbus 設定工具",
+  "description": "Web 版 Modbus 暫存器配置工具，支援 CSV 匯出。",
+  "requestFramePermissions": []
+}
